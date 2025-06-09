@@ -42,6 +42,9 @@ store_url = "https://multigenus-oferta.olx.pl/home/"
 store2="https://audiblask.olx.pl/home/"
 
 store3="https://skotniki.olx.pl/home/" #<400
+
+store_from_repo="https://mokced.olx.pl/home/"
+
 get_offer_count_from_store(store3)
 
 #nie czyta:
